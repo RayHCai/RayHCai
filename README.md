@@ -7,11 +7,8 @@
 - 🎈Check out my **<a href="https://rayhcai.github.io/rfdev/">portfolio</a>**
 
 <div align="center" display="flex">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhcai&show_icons=true&locale=en&theme=tokyonight" alt="rayflanagan" /></p>
-
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhcai&show_icons=true&locale=en&layout=compact&theme=tokyonight"" alt="rayflanagan" /></p>
-
 
 </div>
 
