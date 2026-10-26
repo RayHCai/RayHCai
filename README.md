@@ -16,4 +16,4 @@ CS @ UT Austin. Graph infra & DB @ Cloudflare, AWS. Bagpiper.
 - [grove](https://github.com/RayHCai/grove): multiplayer Scratch
 - [photos](https://github.com/RayHCai/photos): self-hosted Google Photos
 
-**[Check me out](http://rayflan.dev/)** · [LinkedIn](https://www.linkedin.com/in/ray-flanagan/)
+[Check me out](http://rayflan.dev/) · [LinkedIn](https://www.linkedin.com/in/ray-flanagan/)
